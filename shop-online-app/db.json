@@ -1,0 +1,19 @@
+{
+  "signup": [
+    {
+      "id": 1,
+      "email": "test@gmail.com",
+      "phone": "+12345678",
+      "fullName": "Farukh Saleem",
+      "password": "123",
+      "token": "1234"
+    },
+    {
+      "fullName": "Test",
+      "password": "123",
+      "email": "meissasoft21@gmail.com",
+      "phone": "235654554",
+      "id": 2
+    }
+  ]
+}
